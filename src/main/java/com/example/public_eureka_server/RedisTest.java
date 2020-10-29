@@ -22,7 +22,7 @@ public class RedisTest {
 //    TimeUnit.HOURS         //小时
 //    TimeUnit.MINUTES       //分钟
 //    TimeUnit.SECONDS       //秒
-//    TimeUnit.MILLISECONDS  //毫秒 
+//    TimeUnit.MILLISECONDS  //毫秒
 //    TimeUnit.NANOSECONDS   //毫微秒
 //    TimeUnit.MICROSECONDS  //微秒
 
